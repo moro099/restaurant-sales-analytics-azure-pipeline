@@ -1,4 +1,4 @@
-# Restaurant Sales Analytics Pipeline (Azure + Power BI)
+# Restaurant Sales Analytics Pipeline (Python + Azure + Power BI)
 
 ## Project Overview
 This project demonstrates an end-to-end cloud data analytics pipeline built using Python, Azure Data Lake, Azure Data Factory, Azure SQL, and Power BI.
